@@ -1,2 +1,10 @@
-121
-aaa
+To github.com:gaojiawei1/gitRS.git
+   210fd78..5ef03f4  master -> master
+
+D:\gongzuo\gitR>$ git checkout -b dev
+'$' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+D:\gongzuo\gitR>git checkout -b dev
+Switched to a new branch 'dev'
+M       yan.txt
